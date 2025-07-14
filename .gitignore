@@ -1,0 +1,34 @@
+# Build directories
+build/
+cmake-build-debug/
+out/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Executables and libraries
+*.exe
+*.out
+*.lib
+*.dll
+*.so
+*.a
+
+# Object files
+*.o
+*.obj
+
+# IDE specific files
+.idea/
+.vs/
+*.suo
+*.user
+
+# Temporary files and logs
+*.log
+*.tmp
+*~

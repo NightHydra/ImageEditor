@@ -1,0 +1,9 @@
+[submodule "ImageEditingTools"]
+	path = ImageEditingTools
+	url = https://github.com/NightHydra/ImageEditingTools
+[submodule "libs/--recursive"]
+	path = libs/--recursive
+	url = https://github.com/NightHydra/ImageEditingTools
+[submodule "libs/ImageEditingTools"]
+	path = libs/ImageEditingTools
+	url = https://github.com/NightHydra/ImageEditingTools
